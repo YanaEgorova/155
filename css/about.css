@@ -1,0 +1,15 @@
+.about__wrapper {
+    background-image: url('../img/img4.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about {
+    padding: 10rem 0;
+}
+.ingredients {
+    text-align: center;
+}
+@media screen and (min-width: 1024px) {
+ 
+}

@@ -1,0 +1,14 @@
+.hero__wrapper {
+   background-image: url('../img/bg.jpeg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+}
+.hero {
+    padding: 35rem 0 10rem;
+}
+
+@media screen and (min-width: 1024px)  {
+ 
+}

@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --inactive: rgb(161, 161, 161);
+    --accent-color: red;
+    --checkbox-color: #6699ff;
+
+  
+    --main-text-color: #000;
+
+    
+    --first-brand-color: #caef6f;
+    --second-brand-color: #6db20c;
+    --third-brand-color: #d80914;
+
+
+    --main-font: 'Inter';
+    --title-font: 'Inter Bold';
+    --main-title-font: 'Italiana';
+    
+    font-size: 62.5%;
+}
